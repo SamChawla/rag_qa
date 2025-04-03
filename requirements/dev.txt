@@ -1,0 +1,10 @@
+-r common.txt
+
+pytest
+pytest-asyncio
+httpx
+coverage
+black
+isort
+flake8
+mypy
